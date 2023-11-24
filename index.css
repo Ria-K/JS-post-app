@@ -1,0 +1,17 @@
+#container{
+    display: flex;
+    gap: 100px;
+    justify-content: middle;
+}
+
+
+#right{
+
+    justify-content: right;
+}
+
+
+i{
+    cursor: pointer;
+    font-weight: bold;
+}
